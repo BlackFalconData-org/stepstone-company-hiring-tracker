@@ -2,11 +2,12 @@
 
 Extract structured data from [stepstone.de](https://stepstone.de) — Track company hiring activity on stepstone.de — monitor open positions, job changes, and hiring patterns for any employer.
 
-**[StepStone Company Hiring Tracker on Apify →](https://apify.com/blackfalcondata/stepstone-company-hiring-tracker)**
+**[StepStone Company Hiring Tracker - DE on Apify →](https://apify.com/blackfalcondata/stepstone-company-hiring-tracker)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -15,6 +16,7 @@ Extract structured data from [stepstone.de](https://stepstone.de) — Track comp
 ---
 
 ## Use cases
+
 
 
 
@@ -70,6 +72,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
